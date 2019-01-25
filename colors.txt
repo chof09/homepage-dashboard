@@ -1,0 +1,22 @@
+﻿blue: #1CA8DD
+blue dark: #137499
+blue light: #9fdcf3
+green: #1BC98E
+green light: #5FD9B0
+red: #E64759
+red light: #ED7E8A
+purple: #9F86FF
+purple light: #BCAAFF
+yellow: #E4D836
+yellow light: #ECE472
+
+text: #CFD2DA
+text light: #ffffff
+hover-light (hover from "text mid-dark" to...): #6f7890
+text mid-dark: #51586a
+text dark: #252830
+text blue: #1997c6
+
+background: #252830
+background dark: #1E2127
+background light: #434857
